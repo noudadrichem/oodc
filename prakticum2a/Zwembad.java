@@ -1,5 +1,6 @@
 package prakticum2a;
 
+
 public class Zwembad {
 	private double breedte;
 	private double lengte;
